@@ -6,13 +6,39 @@ body{
   width: 600px;
   border: solid 1px black;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 80px;
   /* background-image: radial-gradient(white, lightblue, white, lightblue); */
   padding-left: 10px;
   height: 320px;
   padding-top: 10px;
+}
 
+.container2 {
+  width: 650px;
+  border: solid 1px black;
+  margin: 0 auto;
+  margin-top: 80px;
+  /* background-image: radial-gradient(white, lightblue, white, lightblue); */
+  padding-left: 10px;
+  height: 320px;
+  padding-top: 10px;
+}
 
+.container3 {
+  width: 720px;
+  border: solid 1px black;
+  margin: 0 auto;
+  margin-top: 80px;
+  /* background-image: radial-gradient(white, lightblue, white, lightblue); */
+  padding-left: 10px;
+  height: 300px;
+  padding-top: 10px;
+}
+
+.menu {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 img{
@@ -28,6 +54,9 @@ p {
   margin-bottom: 0;
 }
 
+ul{
+margin-left:220px;
+}
 .intro{
   text-indent: 20px;
   text-align: justify;
@@ -42,12 +71,18 @@ p {
   margin-right: 80px;
 }
 
+.detail-icon2{
+  float: left;
+  margin-right: 93px;
+
+}
+
 
 .skill {
   width: 250px;
   border: solid 1px black;
-  margin-left: 20px;
-  margin-top: 20px;
+  margin-left: 1px;
+  margin-top: 10px;
   /* background-image: radial-gradient(white, lightblue, white, lightblue); */
   padding-left: 10px;
   height: 200px;
@@ -78,13 +113,13 @@ p {
 .edu {
   width: 430px;
   border: solid 1px black;
-  margin-left: 30px;
+  margin: 0 auto;
   margin-top: 20px;
   /* background-image: radial-gradient(white, lightblue, white, lightblue); */
   padding-left: 10px;
   height: 250px;
   padding-top: 10px;
-  float: left;
+  /* float: left; */
   /* background-color: white; */
 }
 
