@@ -41,6 +41,10 @@ body{
   margin-top: 20px;
 }
 
+.active{
+  background-color: lightblue;
+}
+
 img{
   float: left;
   margin-right: 20px;
