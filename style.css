@@ -1,5 +1,6 @@
 body{
-  background-image: url("img/bg2.jpg");
+  background-image: url("img/bg-desktop2.jpg");
+  background-size: cover;
 }
 
 .container {
@@ -39,10 +40,6 @@ body{
   width: 600px;
   margin: 0 auto;
   margin-top: 20px;
-}
-
-.tab {
-  margin-left: 202px;
 }
 
 .active{
